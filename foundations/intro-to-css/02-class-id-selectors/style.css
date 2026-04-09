@@ -1,1 +1,19 @@
-/* Add CSS Styling */
+#id1{
+    color:rgb(0,0,255);
+    font-size:36px;
+}
+
+#id2{
+    background-color:rgb(111, 253, 111);
+    font-size: 24px;
+    font-weight:bold;
+}
+
+.pclass{
+    background-color:salmon;
+    font-family:Verdana, "DejaVe Sans", sans-serif
+}
+
+.middle{
+    font-size:24px;
+}
